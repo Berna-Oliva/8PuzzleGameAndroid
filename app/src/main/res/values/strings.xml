@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">8 Puzzle Game</string>
+    <string name="play">PLAY</string>
+    <string name="_8_puzzle_game">8 PUZZLE GAME</string>
+    <string name="textview">How to Play:</string>
+    <string name="How">Move the cells into the empty cell until you have arranged the numbers like below:</string>
+    <string name="Preview">1 2 3</string>
+    <string name="Preview2">4 5 6</string>
+    <string name="Preview3">7 8 </string>
+    <string name="button">1</string>
+    <string name="solvable">Solvable!</string>
+    <string name="you_are_solving">You are solving...</string>
+    <string name="_1">1</string>
+    <string name="reset">Reset</string>
+</resources>
